@@ -36,7 +36,7 @@ section.left-top p:nth-child(1) {
 }
 
 section.right-top {
-    flex-basis: 50%;
+    flex-basis: 50%
 }
 
 section.right-top img {
